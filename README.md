@@ -1,4 +1,4 @@
-👋 Hi, I’m @TigistTegafaw.
+👋 Hi, I’m @Tigist.
 👀 I’m interested in web development.
 🌱 I’m currently learning Python and UI/UX design.
 💞️ I’m looking to collaborate on open-source projects.
